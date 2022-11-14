@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Main Test",
+      "setup": "git clone https://github.com/nrevutska-students/react-web-workers-test tests && npm install",
+      "run": "CI=true npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}
