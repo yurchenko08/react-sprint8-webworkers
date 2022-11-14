@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "webworkers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/dom": "^8.5.0",
+    "jest": "^27.2.0"
+  }
+}
